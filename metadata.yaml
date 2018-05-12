@@ -1,0 +1,28 @@
+_repo: Zeppelin--The-Story-of-a-Great-Achievement_32570
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vissering, Harry
+    gutenberg_agent_id: '35919'
+    url: http://www.gutenberg.org/2009/agents/35919
+description: ''
+gutenberg_issued: '2010-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32570'
+  lccn: '23016177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Zeppelin, Ferdinand, Graf von, 1838-1917'
+- !lcsh 'Aeronautics, Commercial'
+- !lcsh 'Airships'
+- !lcsh 'Aeronautics, Military'
+title: 'Zeppelin: The Story of a Great Achievement'
+url: http://www.gutenberg.org/ebooks/32570
